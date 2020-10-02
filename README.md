@@ -1,4 +1,4 @@
-##### Current state
+#### Current state
 
 The code was finished on 29. 6. 2020,  and as of yet, it is not completely finished. I ran out of time during the course due to trying to write a PNG converter. It was later revealed that we could use a library for this, but unfortunately it was too late.
 I plan to finish this and add the rest of the example scenes in the future.
